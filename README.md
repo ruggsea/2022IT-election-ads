@@ -1,6 +1,6 @@
 # 2022IT-election-ads
 
-Repository hosting screenshots of political ads relative to the 2022 Italian Election, taken from the Meta ads library database. The adsì IDs are taken from [ITA-ELECTION-2022](https://github.com/frapierri/ita-election-2022). 
+Repository hosting screenshots of political ads relative to the 2022 Italian Election, taken from the Meta ads library database. The ads' IDs are taken from [ITA-ELECTION-2022](https://github.com/frapierri/ita-election-2022). 
 
 # Prerequisites 
 
