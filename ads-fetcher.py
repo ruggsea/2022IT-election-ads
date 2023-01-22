@@ -1,8 +1,6 @@
 
 # read every line of ads_ids.txt into a list of ids
 
-with open('ads_ids.txt') as f:
-    ids = f.readlines()
 
 
 from selenium.webdriver.common.by import By
