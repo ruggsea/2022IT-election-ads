@@ -31,7 +31,7 @@ def get_ads_from_file(file):
     for id in ids:
         url = "https://www.facebook.com/ads/archive/render_ad/?id={id}&access_token={token}".format(
             id=id,
-            token=token
+            token=token.strip()
         )
         driver.get(url)
         time.sleep(0.3)
