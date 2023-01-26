@@ -53,3 +53,4 @@ def get_ads_from_file(file):
 
 if __name__ == "__main__":
     get_ads_from_file("ads_ids.txt")
+ 
